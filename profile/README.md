@@ -3,7 +3,7 @@
 Wij zijn FlexWave: de digitale partner uit **Nunspeet** voor **MKB, start-ups en non-profits**. 
 Wij ontwerpen en bouwen high-end websites en webapplicaties, gecombineerd met sterke branding, media en marketing.
 
-Website: [flexwave.nl](https://flexwave.nl)
+Website: [flex-wave.nl](https://flex-wave.nl)
 
 ---
 
